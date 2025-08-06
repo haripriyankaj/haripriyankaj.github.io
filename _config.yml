@@ -1,0 +1,15 @@
+title: "JSVS Hari Priyanka"
+description: "Personal resume and portfolio"
+baseurl: "" # keep empty for root
+url: "https://<your-github-username>.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+author:
+  name: "J S V Sai Hari Priyanka"
+  email: "priyapatnaik.hari@gmail.com"
+
+exclude:
+  - README.md
